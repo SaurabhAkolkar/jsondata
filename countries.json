@@ -1476,19 +1476,5 @@
       "name": "Zimbabwe",
       "phoneCode": 26
     }
-  ],
-  "saurabh": [
-    {
-      "id": 1,
-      "sortname": "AF",
-      "name": "Afghanistan",
-      "phoneCode": 93
-    },
-    {
-      "id": 2,
-      "sortname": "AL",
-      "name": "Albania",
-      "phoneCode": 355
-    }
   ]
 }
